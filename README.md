@@ -2,8 +2,7 @@
 
 **Building modern Java web applications with Spring Boot.**
 
-A Java web application built with Spring Boot, Spring Data JPA, and MySQL to explore backend development and database integration.
-A backend development project exploring Java, Spring Web, database persistence, and clean application architecture.
+A modern Java web application built with Spring Boot, Spring Web, Spring Data JPA, and MySQL, focused on backend development, database integration, and clean application architecture.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk" alt="Java 21" />
