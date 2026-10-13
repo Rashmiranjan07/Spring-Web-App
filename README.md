@@ -27,6 +27,7 @@ A modern Java web application built with Spring Boot, Spring Web, Spring Data JP
 - **Persistence:** Spring Data JPA
 - **Database:** MySQL
 - **Build Tool:** Apache Maven
+- **API Testing:** Postman
 - **Utilities:** Lombok, Spring Boot DevTools
 
 ## 🏗 Architecture
