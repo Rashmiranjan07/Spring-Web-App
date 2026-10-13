@@ -60,7 +60,7 @@ mvnw.cmd spring-boot:run
 
 **Rashmiranjan Shaw**
 
-[GitHub](https://github.com/Rashmiranjan07) · [Portfolio](https://rashmiranjan07.github.io/Portfolio/)
+[GitHub](https://github.com/Rashmiranjan07)
 
 ---
 
