@@ -1,8 +1,8 @@
 # ⚡ Spring Web App
 
 **Building modern Java web applications with Spring Boot.**
-A Java web application built with Spring Boot, Spring Data JPA, and MySQL to explore backend development and database integration.
 
+A Java web application built with Spring Boot, Spring Data JPA, and MySQL to explore backend development and database integration.
 A backend development project exploring Java, Spring Web, database persistence, and clean application architecture.
 
 <p align="center">
